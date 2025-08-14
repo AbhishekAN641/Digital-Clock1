@@ -1,2 +1,2 @@
 # Digital-Clock1
-built a digtel clock app usinfg react.js
+built a digtal clock app usinfg react.js
